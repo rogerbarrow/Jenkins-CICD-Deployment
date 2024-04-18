@@ -26,6 +26,8 @@
  * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/e0d7b6b2-97d8-4a37-9419-e08767f4167e)
 # Build your Jenkins Pipeline
 *![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/2a878806-3f20-46c6-acb1-9d0e9c5b4a8e)
+* ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/1207076e-4745-487e-8ef2-6018b687a186)
+
 
 
 
