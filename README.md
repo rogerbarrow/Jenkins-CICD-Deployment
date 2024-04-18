@@ -20,6 +20,8 @@
 # Next Step is install Docker 
   * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/598a7580-d41c-49ad-9896-7a996e9f55eb)
   * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/acc4fbbc-e9f5-43ce-8d54-d16845f1917d)
+  * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/86e7a66e-3c92-4c4a-88e4-d7af7cc0eabb)
+
 
 
 
