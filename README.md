@@ -10,6 +10,7 @@
   * Verify Java is install withe cmd java--version
   ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/c174a29b-7e7a-4b62-9e9a-b930dbd1ccd2)
 # Now we will install Jenkins
+ * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/52a01652-86a6-4adb-8cb4-89ed066e45c2)
 
 
 
