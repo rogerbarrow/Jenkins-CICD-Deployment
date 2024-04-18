@@ -14,6 +14,8 @@
  * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/88201736-8483-4276-bc4d-09b64c7d5130)
 # Jenkins Server runs on port :8080 we Will need to Edit the Security Group in your EC2 to give access
   * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/83e78568-8bcc-47c9-a0a8-a3ca31e1e822)
+   * Login to jenkins
+   * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/0a3bfc22-aa42-4b85-8372-1d3704b0f18a)
 
 
 
