@@ -16,6 +16,11 @@
   * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/83e78568-8bcc-47c9-a0a8-a3ca31e1e822)
    * Login to jenkins
    * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/0a3bfc22-aa42-4b85-8372-1d3704b0f18a)
+   * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/7230ac5c-b99c-4ab2-8e1c-7279d33172a0)
+# Next Step is install Docker 
+  * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/598a7580-d41c-49ad-9896-7a996e9f55eb)
+
+
 
 
 
