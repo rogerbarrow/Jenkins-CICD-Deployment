@@ -27,17 +27,11 @@
 # Build your Jenkins Pipeline
 *![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/2a878806-3f20-46c6-acb1-9d0e9c5b4a8e)
 * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/1207076e-4745-487e-8ef2-6018b687a186)
+* ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/ad7ae6b9-e612-404d-8c76-10fe50e60c75)
 
 
 
 
 
-
-
-
-
-
-
-#Configure Docker
 #Set up CICD
 #Deploy application on K8
