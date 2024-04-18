@@ -21,6 +21,10 @@
   * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/598a7580-d41c-49ad-9896-7a996e9f55eb)
   * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/acc4fbbc-e9f5-43ce-8d54-d16845f1917d)
   * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/86e7a66e-3c92-4c4a-88e4-d7af7cc0eabb)
+# Install the Dokcer Pipline Plugin in Jenkins:
+ * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/69ae2bd9-1761-4bd6-83f0-4f506a6c3b38)
+ * ![image](https://github.com/rogerbarrow/Jenkins-CICD-Deployment/assets/46138186/e0d7b6b2-97d8-4a37-9419-e08767f4167e)
+
 
 
 
